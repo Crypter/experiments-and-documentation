@@ -1,4 +1,4 @@
-This was project done for the purpose of exploring OpenNebula use cases as part of "Virtuelization and Cloud Computing" subject at UKIM - FCSE Skopje
+This was project done for the purpose of exploring OpenNebula use cases as part of "Virtualization and Cloud Computing" subject at UKIM - FCSE Skopje
 
 ## Software tried and/or used: ##
   * NFS with DRBD
